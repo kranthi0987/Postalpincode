@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Postal pincode</string>
+    <string name="app_search_text">Search Text</string>
+    <string name="app_search">Search</string>
+</resources>
